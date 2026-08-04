@@ -2,6 +2,10 @@
 
 Django REST Framework backend for a Telegram e-commerce bot.
 
+> This project is part of a two-service application.
+>
+> **Related repository:** https://github.com/mayldute/ecommerce-telegram-bot
+
 ## Features
 
 - Telegram users identified by `tg_id`
